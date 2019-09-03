@@ -1,0 +1,93 @@
+body{
+    background-image: url(images/06denglu.jpg)
+}
+
+.a2{
+    position: absolute;
+    height: 34px;
+    font-size: 14px;
+    line-height: 34px;
+    background-color: rgba(150, 164, 224, .17);
+    color: #eaedf9;
+    padding: 0 11px;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+}
+.a3{
+    text-align: center;
+    font-size: 20px
+}
+.a4{
+    border: solid;
+    width: 400px;
+    height:270px;
+    background-color:white;
+    margin: 40px auto;
+    }
+    .a5{
+        width: 320px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 auto;
+        margin-top: 10px;
+        border-bottom: 1px solid #e1e6e9;
+        overflow: hidden;
+
+    }
+    .a5 input {
+        outline: none; 
+        border:none;
+    }
+    .a6{
+        width: 320px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 auto;
+        margin-top: 10px;
+        border-bottom: 1px solid #e1e6e9;
+        overflow: hidden;
+    
+         
+    }
+    .a6 input{
+        border: none;
+    }
+    .a7{
+        width: 320px;
+        height: 36px;
+        line-height: 30px;
+        text-align: center;
+        background-color: #49c0e0;
+        border-radius: 5px;
+        margin: 0 auto;
+        display: block;
+        margin-top: 16px;
+        border: 1px solid #49c0e0;
+        color: #feffff;
+        letter-spacing: 1px;
+    }
+    .a8{
+        font-size: 20px;
+    color: #000000;
+    border: 2px solid #006600;
+    background-color: #DBFBF7;
+    position: relative;
+    left:10px;
+    }
+    .a10{
+        position: relative;
+        left: 110px;
+    }
+.a11{
+    height: 80px;
+    width: 100%;
+    background-color: rgba(150, 164, 224, .17);
+    bottom: 10px;
+    padding-top: 15px;
+    text-align: center;
+    line-height: 2.2;
+    color: #9196b3;
+   position: relative;
+   bottom: -80px;
+}
